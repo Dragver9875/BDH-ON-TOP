@@ -75,9 +75,4 @@ Because we intentionally prioritize simplicity and controllability in our implem
 ├── /checkpoints
 │   └── best_bdh_model.pth
 ├── /outputs
-│   └── results.csv
-└── /data
-    ├── train.csv
-    ├── test.csv
-    ├── The Count of Monte Cristo.txt
-    └── In search of the castaways.txt
+    └── results.csv
