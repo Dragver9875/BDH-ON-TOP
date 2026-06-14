@@ -1,7 +1,7 @@
 # BDH Driven Continuous Narrative Reasoning
 
 **Team:** BDH_ON_TOP  
-**Authors:** Piyush Panda, Priyam Ghosh, Priyansh Rawat  
+**Authors:** Piyush Panda, Priyam Ghosh, Priyansh Rawat.  
 
 ## 📖 Project Overview
 
